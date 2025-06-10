@@ -1,0 +1,25 @@
+Escopo é o limite onde uma variável existir e poder usada no seu código.
+
+Escopo Global:
+  - A variável pode ser usada em qualquer parte do seu código.
+  - É criada fora de funções ou blocos de código.
+
+Escopo de função:
+  - A variável pode ser usada apenas dentro da função onde foi criada.
+  - Fora dela, não funciona.
+
+Escopo de bloco:
+  - A variável pode ser usada apenas dentro do bloco onde foi criada.
+  - Fora dela, não funciona.
+
+
+Let e Const:
+  - Let:
+    - Pode ser usada em qualquer parte do seu código.
+    - Pode ser reatribuída.
+    - Pode ser declarada sem ser inicializada.
+  - Const:
+    - Pode ser usada em qualquer parte do seu código.
+    - Não pode ser reatribuída.
+    - Deve ser inicializada.
+    

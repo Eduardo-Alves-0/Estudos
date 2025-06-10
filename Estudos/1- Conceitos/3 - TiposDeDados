@@ -1,0 +1,33 @@
+Tipos de dados são categorias de valores que dizem ao JavaScript que tipo de informação está sendo usada
+
+Os principais tipos de dados em JavaScript:
+    - String
+        - Representa texto e palavras.
+        - Usado para nomes, mensagens, frases etc.
+
+    - Numbeer
+        - Representa qualquer número.
+        - Pode ser inteiro ou decimal.
+
+    - Boolean
+        - Representa dois únicos valores: verdadeiro  (true) ou falso (false).
+        - Usando para decisões, como "sim ou não", "ligado ou desligado".
+
+    - Underfined
+        - É quandp uma variáveç existe, mas não tem valor atribuído.
+        - Um valor padrão quando uma variável é criada, mas não tem valor atribuído.
+        - É usado para indicar que uma variável foi declarada, mas não foi inicializada. 
+
+    - Null
+        - É um valor especial que representa a ausência de valor.
+        - É usado para indicar que uma variável foi declarada, mas não foi inicializada.
+
+    - Object
+        - É um valor que pode conter vários valores.
+        - É usado para armazenar vários valores em uma variável.
+
+    - Array
+        - É um valor que pode conter vários valores.
+        - É usado para armazenar vários valores em uma variável.
+
+    

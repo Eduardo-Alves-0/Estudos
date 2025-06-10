@@ -1,0 +1,16 @@
+Variáveis são usada para armazenar dados que podem ser utilizados e manipulados ao longo do código.
+Elas funcionam como "caixinhas" com nomes no qual será guardado os valors.
+
+Tipos de variáveis:
+ - Var: Forma antiga, não utilizar.
+ - Let: Forma mais atualmente, recomendad para valores que mudam ao longo do código.
+ - Const:  Utilizada para valores que não mudam ao longo do código.
+
+Regras para nomear variáveis:
+ - Não pode começar com número.
+ - Não pode ter espaço.
+ - Não pode ter caracteres especiais.
+ - Não pode ter palavras reservadas.
+ - Não pode ter acentos.
+ - Devem começar com letra minúscula.
+ - Devem devem começar com letra, $ ou _.
