@@ -1,0 +1,9 @@
+Estruturas de Repetição
+São usadas para repetir um bloco de código váriavas vezes, com base em uma condição.
+Muito úteis quando é preciso fazer algo várias vezes sem repetir o mesmo código manualmente.
+
+for - Repete com base em um contador.
+while - Repete enquanto uma condição for verdadeira.
+d0...while - semelhante ao while, mas executa pelo menos uma vez.
+for...of - percorre valores de arrays, strings etc...
+for...in - percorre propriedades de objetos.

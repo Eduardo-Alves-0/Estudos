@@ -1,0 +1,26 @@
+Estruturas condicionais
+As estrturas condicionais servem para controlar o fluxo do programa, ou seja
+executar diferentes blocos de código dependendo do resultado de uma condição (verdadeira ou falsa).
+
+if 
+    - A mais básica 
+    - Executa um bloco de código apenas se uma condição for verdadeira.
+
+if...else
+    - Usado quando há duas possibilidades.
+    - Se a condição for verdadeira, executa o primeiro bloco.
+    - Se for falsa, executa o segundo bloco.
+
+if...else if...else
+    - Permite testar variás condições diferentes, uma após a outra.
+    - Assim que uma condição for verdadeira, o bloco correspondente é executado, e os outros são ignorados.
+    - Se nenhuma for verdadeira, o bloco final (else) é executado.
+
+switch
+    - Utilizado para comparar um valor com várias opções possíveis (casos).
+    - Mais organizado que muitos else if, principalmente quando se compara o mesmo valor com várias possibilidades.
+
+
+- Condições são normalmente expressões que retornam TRUE ou False
+- Os operadores de comparação, lógicos são muitos usados dentro das estruturas condicionais.
+  
