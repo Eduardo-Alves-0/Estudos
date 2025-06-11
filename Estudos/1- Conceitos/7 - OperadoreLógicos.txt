@@ -1,0 +1,22 @@
+Operadores Lógicos
+Usados para combinar expressões lógicas.
+
+&& (E lógico - AND)
+Retorna true somente se ambas expressões forem verdadeiras.
+
+true && true     // true
+true && false    // false
+false && false   // false
+
+|| (OU lóg)
+Retorna True se pelo menos uma das expressões for verdadeiras
+
+true || false    // true
+false || false   // false
+true || true     // true
+
+! (Não lógico - NOT) 
+Inverte o valor de uma expressão boolena
+
+!true   // false
+!false  // true

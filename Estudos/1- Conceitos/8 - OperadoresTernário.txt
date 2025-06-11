@@ -1,0 +1,7 @@
+Operadores Ternário (? :)
+O operador ternário é uma forma compacta de escrever um if else.
+É muito usada em situações simples de decisão.
+
+condição ? valor_se_verdadeiro :  valor_se_falso;
+
+

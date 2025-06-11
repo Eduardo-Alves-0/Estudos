@@ -1,0 +1,13 @@
+Operadores Aritméticos
+Usados para realizar operações matemáticas básicas.
+
++       Adição              5 + 3
+-       Subtração           10 - 4
+*       Multiplicação       6 * 2
+/       Divisão             10 / 2
+%       Módulo              10 % 3
+**      Exponenciação       2 ** 3
+++      Incremento          let x = 1; x++
+--      Decremento          let x = 1; x--    
+
+

@@ -1,0 +1,11 @@
+Operadores de Concatenação 
+O operador "+" também é usado para concatenar (juntar) strings.
+
+const nome = "Eduardo";
+const saudacao = "Olá, " + nome + "!";
+console.log(saudacao); // "Olá, Eduardo!"
+
+Mas também podemos utilizar o template strings com crases `
+
+const nome = "Eduardo";
+console.log(`Olá, ${nome}!`); // "Olá, Eduardo!"

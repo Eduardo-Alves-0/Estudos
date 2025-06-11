@@ -1,0 +1,16 @@
+Operadores de comparação de tipo (Typeof e instanceof)
+
+Typeof
+retorna o tipo de uma variável de acordo como valor atribuido a ela.
+
+console.log(typeof 123);        // "number"
+console.log(typeof "Eduardo"); // "string"
+console.log(typeof true);       // "boolean"
+console.log(typeof {});         // "object"
+
+
+instanceof 
+Verifica se um objeto é uma instância de um tipo/classe
+
+const data = new Date();
+console.log(data instanceof Date); // true

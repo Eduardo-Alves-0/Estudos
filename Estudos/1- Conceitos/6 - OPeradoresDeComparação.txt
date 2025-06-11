@@ -1,0 +1,11 @@
+Operadores de comparação
+Usados para comparar dois valores, retornam True ou False.
+
+==      Igualdade (valor)
+===     Estritamente igual
+!=      Diferente (valor)
+!===    Estritamente diferente 
+>       Maior que 
+<       Menor que 
+>=      Maior ou igual a 
+<=      Menor ou igual a
